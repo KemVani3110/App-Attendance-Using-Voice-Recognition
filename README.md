@@ -46,6 +46,24 @@ To use the app, follow these steps:
     
     This script will recognize the voice and mark the attendance.
 
+## Preparing Training Data
+To ensure optimal performance of the voice recognition system, follow these steps to prepare your training data:
+
+1. Record at least 40 sound samples:
+
+    Begin by recording a minimum of 40 distinct sound samples using the record_file.py script. These samples will form the core dataset required for offline testing.
+
+2. Generate additional sound samples:
+
+    Create more than 10 additional sound recordings. Place these extra samples in your initial_audio_files_yourname directory.
+
+3. Organize your data for testing:
+
+    The initial 40 sound files will be designated for Option 1: Offline Testing.
+    The additional sound files will be allocated for Option 2: Online Testing.
+
+By carefully preparing and organizing your audio samples, you will ensure a robust training dataset that enhances the accuracy and reliability of the voice recognition model.
+
 ## Conclusion
 
 This voice recognition attendance app offers a convenient and innovative way to track attendance. By recording, training, and recognizing voices, you can efficiently manage attendance records with minimal hassle.
