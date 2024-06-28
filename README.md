@@ -1,5 +1,7 @@
 ## App Attendance Using Voice Recognition
 
+This project is ran on Visual Studio Code only.
+
 ## Overview
 
 This project leverages voice recognition technology to manage attendance, developed using Python 3.12.2.
@@ -8,13 +10,13 @@ This project leverages voice recognition technology to manage attendance, develo
 
 To get started, install the necessary libraries by running the following commands:
 
-    `pip install numpy`
-    `pip install sounddevice`
-    `pip install librosa`
-    `pip install scikit-learn`
-    `pip install tkinter`
-    `pip install scipy`
-    `pip install pandas openpyxl`
+    pip install numpy
+    pip install sounddevice
+    pip install librosa
+    pip install scikit-learn
+    pip install tkinter
+    pip install scipy
+    pip install pandas openpyxl
     
 ## Usage
 
